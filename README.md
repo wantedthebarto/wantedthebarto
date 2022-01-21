@@ -1,0 +1,5 @@
+- 👋 Hello, I'm @wantedthebarto
+- 👀 I am interested in .NET development solutions
+- 🌱 I am currently a technical development lead
+- 💞️ I'm looking to collaborate in technology
+- 📫 How to contact me on facebook
